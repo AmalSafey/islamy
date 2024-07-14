@@ -60,10 +60,20 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
+  assets:
+    - android/assetsdark/body_sebha_dark.png
+    - android/assetsdark/dark_bg.png
+    - android/assetsdark/head_sebha_dark.png
+    - android/assetslight/body_sebha_logo.png
+    - android/assetslight/default_bg.png
+    - android/assetslight/hadeth_logo.png
+    - android/assetslight/head_sebha_logo.png
+    - android/assetslight/icon_hadeth.png
+    -  android/assetslight/icon_quran.png
+    - android/assetslight/icon_radio.png
+    - android/assetslight/icon_sebha.png
+    - android/assetslight/qur2an_screen_logo.png
+    - android/assetslight/radio_image.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
